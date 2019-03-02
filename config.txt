@@ -1,0 +1,6 @@
+owner=489527880490024965
+prefix=1
+game=1play | gang server
+stayinchannel=true
+songinstatus=false
+token=NTUxNDI3NjA2NjUwNTUyMzMx.D1w0gA._C6ZQp_goZcpv_xeVZl242XRbLc
